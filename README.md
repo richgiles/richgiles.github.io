@@ -1,2 +1,8 @@
-# 시작과 끝 마음이 일치하자
+# Rich Giles 
+ - Java
+ - Spring
+ - Nexacro
+ - Javascript
+ - Vue.js
+ - React.js
   
