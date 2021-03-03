@@ -1,1 +1,2 @@
-# richgiles.github.io
+# 시작과 끝 마음이 일치하자
+  
